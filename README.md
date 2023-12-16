@@ -7,7 +7,7 @@ This repository contains the following:
 - Data Compliance
 - Appendix Figure
 - Clan Data (compressed with a password)
-
+- Fine-tuned Model (will be uploaded soon)
 
 ## Dataset Usage
 If you plan to use the dataset provided in this repository, we kindly request that you cite our paper:
