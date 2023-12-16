@@ -1,11 +1,22 @@
-# codeQuality
-This is the repository for our research paper "Analyzing Code Text Strings for Code Evaluation".
+Welcome to the repository for our research paper titled "Analyzing Code Text Strings for Code Evaluation."
 
-This repo includes:
+## Contents
+This repository contains the following:
+
 - License
 - Data Compliance
 - Appendix Figure
-- Data (will be open public in late 2023)
+- Clan Data (compressed with a password)
 
-2023
+
+## Dataset Usage
+If you plan to use the dataset provided in this repository, we kindly request that you cite our paper:
+T. Wang, Z. Chen, Analyzing Code Text Strings for Code Evaluation, in:  2023 IEEE International Conference on Big Data (BigData), (Sorrento, Italy, 2023), pp. 5619.
+
+Note: The password to access the uncompressed data can be obtained by sending an email to twang4@mercy.edu.
+
+For any inquiries or further assistance, please feel free to contact us. Thank you for your interest in our research.
+
+
+since 2023
 T. Wang
