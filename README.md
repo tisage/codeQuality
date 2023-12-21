@@ -17,11 +17,11 @@ This repository contains the following:
 
 
 
-The dataset comprises 72,079 rows of human-submitted solutions for LeetCode challenges, with the following key attributes:
+The dataset comprises 72,079 rows of human-submitted code solutions using Python 3 for Leet Code challenges, with the following key attributes:
 
 - `pid`: LeetCode Question Number
 - `title`: Question Title
-- `code`: Python 3 Code Solution (`string` dtype)
+- `code`: Code Solution (`string` dtype)
 - `score`: Score evaluated by our Quality Engine
 - `label_hp50`: Annotated label using 0.5 as the threshold (1: high quality, 0: low quality)
 - `label_hp25`: Annotated label using 0.75 and 0.25 as thresholds (1: high quality, 0: low quality, 3: medium quality)
