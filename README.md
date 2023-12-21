@@ -12,7 +12,7 @@ This repository contains the following:
 
 | pid | title | code | score | label_hp50 | label_hp25 | label_s50 |
 |-----|-------|------|-------|------------|------------|-----------|
-|     |       |      |       |            |            |           |
+| 1   |   Two Sum    |   class Solution:   def twoSum(self, nums: List[int], target: int) -> List[int]: ...   |  0.594891977     |       1     |      3      |    0       |
 
 
 The dataset comprises 72,079 rows of human-submitted solutions for LeetCode challenges, with the following key attributes:
