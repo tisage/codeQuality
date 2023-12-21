@@ -8,14 +8,12 @@ This repository contains the following:
 - Appendix Figure
 - Clan Data (compressed with a password)
 - Fine-tuned Model (will be uploaded soon)
+
 ## Data Info
 
 | pid | title     | code                                        | score         | label_hp50 | label_hp25 | label_sp25 |
 |-----|-----------|---------------------------------------------|---------------|------------|------------|------------|
 | 1   | Two Sum   | ```class Solution:\n def twoSum(...)...``` | 0.594891977   | 1          | 3          | 0          |
-
-
-
 
 The dataset comprises 72,079 rows of human-submitted code solutions using Python 3 for Leet Code challenges, with the following key attributes:
 
@@ -36,6 +34,7 @@ Note: The password to access the uncompressed data can be obtained by sending a 
 
 For any inquiries or further assistance, please feel free to contact us. Thank you for your interest in our research.
 
+---
+Since 2023
 
-since 2023
 T. Wang
