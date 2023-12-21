@@ -15,7 +15,7 @@ This repository contains the following:
 |-----|-----------|---------------------------------------------|---------------|------------|------------|------------|
 | 1   | Two Sum   | ```class Solution:\n def twoSum(...)...``` | 0.594891977   | 1          | 3          | 0          |
 
-The dataset comprises 72,079 rows of human-submitted code solutions using Python 3 for Leet Code challenges, with the following key attributes:
+The dataset comprises 72,079 rows of human-submitted code solutions using Python 3 for Leet Code challenges (#1 - #100), with the following key attributes:
 
 - `pid`: LeetCode Question Number
 - `title`: Question Title
