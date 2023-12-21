@@ -12,7 +12,7 @@ This repository contains the following:
 
 | pid | title     | code                                        | score         | label_hp50 | label_hp25 | label_sp25 |
 |-----|-----------|---------------------------------------------|---------------|------------|------------|------------|
-| 1   | Two Sum   | ```python class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]: ... ``` | 0.594891977   | 1          | 3          | 0          |
+| 1   | Two Sum   | ```class Solution:\n def twoSum(self, nums: List[int], target: int) -> List[int]: ... ``` | 0.594891977   | 1          | 3          | 0          |
 
 
 
