@@ -12,14 +12,12 @@ This repository contains the following:
 
 | pid | title     | code                                        | score         | label_hp50 | label_hp25 | label_sp25 |
 |-----|-----------|---------------------------------------------|---------------|------------|------------|------------|
-| 1   | Two Sum   | ```
-                    class Solution:
+| 1   | Two Sum   | ```class Solution:
                         def twoSum(self, nums: List[int], target: int) -> List[int]:
                             for i in range(len(nums)):
                                 for j in range(i + 1, len(nums)):
                                     if nums[j] == target - nums[i]:
-                                        return [i, j]
-                    ```                             | 0.594891977   | 1          | 3          | 0          |
+                                        return [i, j]```                             | 0.594891977   | 1          | 3          | 0          |
 
 
 
