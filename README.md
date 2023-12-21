@@ -12,12 +12,7 @@ This repository contains the following:
 
 | pid | title     | code                                        | score         | label_hp50 | label_hp25 | label_sp25 |
 |-----|-----------|---------------------------------------------|---------------|------------|------------|------------|
-| 1   | Two Sum   | ```class Solution:
-                        def twoSum(self, nums: List[int], target: int) -> List[int]:
-                            for i in range(len(nums)):
-                                for j in range(i + 1, len(nums)):
-                                    if nums[j] == target - nums[i]:
-                                        return [i, j]```                             | 0.594891977   | 1          | 3          | 0          |
+| 1   | Two Sum   | ```class Solution:\n def twoSum(...)...```                             | 0.594891977   | 1          | 3          | 0          |
 
 
 
@@ -26,7 +21,7 @@ The dataset comprises 72,079 rows of human-submitted solutions for LeetCode chal
 
 `pid`: LeetCode Question Number
 `title`: Question Title
-`code`: Python 3 Code Solution
+`code`: Python 3 Code Solution (`string` dtype)
 `score`: Score evaluated by our Quality Engine
 `label_hp50`: Annotated label using 0.5 as the threshold (1: high quality, 0: low quality)
 `label_hp25`: Annotated label using 0.75 and 0.25 as thresholds (1: high quality, 0: low quality, 3: medium quality)
