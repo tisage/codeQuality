@@ -31,7 +31,7 @@ The dataset comprises 72,079 rows of human-submitted code solutions using Python
 2023
 
 ## Reference
-If you found the datset useful in your research or applications, please cite using the following BibTeX:
+If you found the dataset useful in your research or applications, please cite using the following BibTeX:
 ```
 @INPROCEEDINGS{10386406,
   author={Wang, Tianyu and Chen, Zhixiong},
