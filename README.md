@@ -26,15 +26,22 @@ The dataset comprises 72,079 rows of human-submitted code solutions using Python
 - `label_sp25`: Annotated label using group mean as the threshold (1: high quality, 0: low quality)
 
 ## Dataset Usage
-If you plan to use the dataset provided in this repository, we kindly request that you cite our paper:
-`
-T. Wang and Z. Chen, "Analyzing Code Text Strings for Code Evaluation," 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5619-5628, doi: 10.1109/BigData59044.2023.10386406.
-`
-*Note*: The password to access the uncompressed data can be obtained by sending a request email to twang4@mercy.edu
+*Note*: The password to access the uncompressed data can be obtained by sending a request email to twang4@mercy.edu. For any inquiries or further assistance, please feel free to contact us. Thank you for your interest in our research.
 
-For any inquiries or further assistance, please feel free to contact us. Thank you for your interest in our research.
+2023
 
----
-Since 2023
+## Reference
+If you found the datset useful in your research or applications, please cite using the following BibTeX:
+```
+@INPROCEEDINGS{10386406,
+  author={Wang, Tianyu and Chen, Zhixiong},
+  booktitle={2023 IEEE International Conference on Big Data (BigData)}, 
+  title={Analyzing Code Text Strings for Code Evaluation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={5619-5628},
+  keywords={Measurement;Deep learning;Codes;Bidirectional control;Organizations;Transformers;Software;code assessment;code annotation;deep learning;nature language processing;software assurance;code security},
+  doi={10.1109/BigData59044.2023.10386406}}
 
-T. Wang
+```
