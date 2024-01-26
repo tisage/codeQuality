@@ -30,7 +30,7 @@ The dataset comprises 72,079 rows of human-submitted code solutions using Python
 
 ## Fine-tuned Model
 See details:
-https://huggingface.co/tisage/CodeQuality
+[https://huggingface.co/tisage/CodeQualityLC100](https://huggingface.co/tisage/CodeQualityLC100)
 
 ## Reference
 If you found the dataset useful in your research or applications, please cite using the following BibTeX:
