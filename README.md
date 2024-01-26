@@ -3,11 +3,11 @@ Welcome to the repository for our research paper: T. Wang and Z. Chen, "Analyzin
 
 ## Contents
 This repository contains the following:
-- License
-- Data Compliance
-- Appendix Figure
 - Clean Data (compressed with a password)
 - Fine-tuned Model
+- Data Compliance
+- Appendix Figure
+- License
 
 ## Data Info
 
