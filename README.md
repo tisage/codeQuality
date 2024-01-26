@@ -8,7 +8,7 @@ This repository contains the following:
 - Data Compliance
 - Appendix Figure
 - Clan Data (compressed with a password)
-- Fine-tuned Model (will be uploaded soon)
+- Fine-tuned Model
 
 ## Data Info
 
@@ -27,6 +27,10 @@ The dataset comprises 72,079 rows of human-submitted code solutions using Python
 
 ## Dataset Usage
 *Note*: The password to access the uncompressed data can be obtained by sending a request email to twang4@mercy.edu. For any inquiries or further assistance, please feel free to contact us. Thank you for your interest in our research.
+
+## Fine-tuned Model
+See details:
+https://huggingface.co/tisage/CodeQuality
 
 ## Reference
 If you found the dataset useful in your research or applications, please cite using the following BibTeX:
